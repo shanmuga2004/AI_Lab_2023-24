@@ -14,7 +14,7 @@ To write a python program to implement Breadth first Search.
 8.   Stop the program.
 
 ### Program:
-
+```
 graph = {
  '2' : ['3','4'],
  '3' : ['5'],
@@ -40,7 +40,7 @@ def bfs(visited, graph, node):
 # Driver Code
 print("BFS order is ")
 bfs(visited, graph,'2')
-
+```
 
 
 
@@ -48,6 +48,7 @@ bfs(visited, graph,'2')
 
 
 ### Output:
+```
 BFS order is 
 2
 3
@@ -56,7 +57,7 @@ BFS order is
 6
 7
 8
-
+```
 
 
 ### Result:
