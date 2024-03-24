@@ -12,7 +12,6 @@ To  write  a logic program  to solve Towers of Hanoi problem  using SWI-PROLOG.
 6.        ii)	Move  Nth disk from X to Y
 7.        iii)	Move  N-1 disks from Y to X.
 8. Run the program  to find answer of  query.
-
 ### Program:
 ```
 move(1,X,Y,_) :-  
@@ -28,14 +27,8 @@ move(N,X,Y,Z) :-
     move(1,X,Y,_), 
     move(M,Z,Y,X).
 ```
-
-
-
 ### Output:
 ![WhatsApp Image 2024-03-24 at 9 42 44 PM](https://github.com/shanmuga2004/AI_Lab_2023-24/assets/114944625/ecc5f145-8211-4d37-bde8-acb58ecba5e4)
-
-
-
 
 ### Result:
 Thus the solution of Towers of Hanoi problem was found by logic programming.
