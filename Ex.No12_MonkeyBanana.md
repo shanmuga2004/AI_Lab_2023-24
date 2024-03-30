@@ -1,4 +1,4 @@
-# Ex.No: 12  Planning –  Monkey Banana Problem
+![Screenshot (1)](https://github.com/shanmuga2004/AI_Lab_2023-24/assets/114944625/cf0feceb-1faa-430d-abdb-c115f73a883c)# Ex.No: 12  Planning –  Monkey Banana Problem
 ### DATE: 30.03.2024                                                                          
 ### REGISTER NUMBER : 212221060253
 ### AIM: 
@@ -82,7 +82,9 @@ Step 7: Stop the program.<br>
 ```
 
 ### Output/Plan:
-![Uploading Screenshot (1).png…]()
+![WhatsApp Image 2024-03-30 at 10 50 28 AM](https://github.com/shanmuga2004/AI_Lab_2023-24/assets/114944625/716e34cf-8750-4bf7-97f3-1f67f41343da)
+
+
 
 
 ### Result:
