@@ -1,4 +1,4 @@
-![Screenshot (1)](https://github.com/shanmuga2004/AI_Lab_2023-24/assets/114944625/cf0feceb-1faa-430d-abdb-c115f73a883c)# Ex.No: 12  Planning –  Monkey Banana Problem
+# Ex.No: 12  Planning –  Monkey Banana Problem
 ### DATE: 30.03.2024                                                                          
 ### REGISTER NUMBER : 212221060253
 ### AIM: 
