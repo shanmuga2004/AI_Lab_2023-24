@@ -15,6 +15,7 @@ Step 8 : In stack action, Robot arm place the block on under block. Precondition
 Step 9 : Define a problem for block world problem.<br> 
 Step 10 : Obtain the plan for given problem.<br> 
      
+
 ### Program:
 ```
 (define (domain blocksworld)
