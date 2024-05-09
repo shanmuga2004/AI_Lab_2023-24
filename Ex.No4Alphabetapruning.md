@@ -60,6 +60,19 @@ Write a Alpha beta pruning algorithm to find the optimal value of MAX Player fro
       values = [3, 5, 6, 9, 1, 2, 0, -1] 
       print("The optimal value is :", minimax(0, 0, True, values, MIN, MAX))
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Output:
 
 The optimal value is 5
