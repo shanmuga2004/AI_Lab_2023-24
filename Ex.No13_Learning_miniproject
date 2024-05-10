@@ -39,7 +39,40 @@ data = pd.read_csv('diabetes.csv')
 data.head()
 
 
+
+
+
+
+
+
+
+
+
+
+
 print(data.columns)
+
+
+
+
+
+
+
+
+
+
+x=data.drop([Outcome']).axis=1)
+y=data['Outcome']
+print(x[:5])
+
+
+
+
+
+
+
+
+
 
 
 
@@ -79,7 +112,21 @@ app.launch(share=True)
 
 
 ### Output:
-blob:https://web.whatsapp.com/4b1669d7-cb66-4583-8587-69ff2f1f259a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Result:
