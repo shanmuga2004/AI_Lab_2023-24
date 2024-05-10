@@ -25,7 +25,7 @@ and get predictions regarding diabetes risk.
 12.Stop the program.
 
 ### Program:
-```
+
 import numpy as np
 import pandas as pd
   
@@ -79,30 +79,6 @@ app = gr.Interface(fn=diabetes, inputs=
 ['number','number','number','number','number','number','number','number'],
 outputs=outputs,description="Detection of Diabeties")
 app.launch(share=True)
-
-
-
-
-
-
-
-
-
-
-
-```
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
